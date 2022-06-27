@@ -1,0 +1,77 @@
+TEST
+Other (Searched)
+
+Segment
+Correspond à la catégorie dans laquelle se trouve le contact
+Term
+ ap_client_segment De 
+sugarpro8
+contacts
+
+Other (Inferred)
+ SEGMENT De 
+MICROSOFT SQL SERVER apdatahubt01 1433 svc_tld_t
+
+C_BI
+
+TMP_CRM_CONTACTS_HISTO
+Other (Inferred)
+ Segment De 
+Cognos FM
+
+DWH
+
+Business View CRM
+
+Contact Histo
+Other (Inferred)
+ (en) D_SEGMENT De 
+Cognos FM
+
+DWH
+
+Database View CRM
+
+(en) D_CRM_CONTACTS_HISTO
+Other (Inferred)
+ Segment De 
+Cognos CM Report
+
+CRM Watch Clients
+
+CRM Watch Clients
+Other (Inferred)
+ Segment De 
+Cognos CM Report
+
+Join - Watch Clients
+
+Join - Watch Clients
+Other (Inferred)
+ Segment De 
+Cognos CM Report
+
+Join 1 - Watch Clients
+
+Join 1 - Watch Clients
+Other (Inferred)
+ Segment De 
+Cognos CM Report
+
+Req_Segment
+
+Req_Segment
+Other (Inferred)
+ Segment De 
+Cognos CM Report
+
+Tab1 - Watch Clients
+
+Tab1 - Watch Clients
+Other (Inferred)
+ Param_segment De 
+Cognos CM Report
+
+01 - CRM - Watch Clients
+
+Param_segment
